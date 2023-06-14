@@ -44,22 +44,6 @@ main img {
   background-repeat: no-repeat;
 }
 
-/* .hole:nth-child(3) {
-  animation: moleShow 1s;
-}
-
-.hole:nth-child(7) {
-  animation: moleShow 1s;
-}
-
-.hole:nth-child(9) {
-  animation: moleShow 1s;
-}
-
-.hole:nth-child(11) {
-  animation: moleShow 1s;
-} */
-
 
 @keyframes moleShow {
   0% {
